@@ -48,8 +48,9 @@ Array of Audio urls
 ```
 
 ## Status codes
+
 | Code | Description |
-| :-----:| ---------- |
+|:-----:| ---------- |
 | `429` | You are making more than `1` request per `0.05` seconds| 
 | `400` | Missing some required params|
 | `403` | Wrong headers|
