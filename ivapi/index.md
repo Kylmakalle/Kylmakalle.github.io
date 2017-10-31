@@ -1,6 +1,6 @@
 # IV API
 
-Create IV image galeries and audio playlists using this API.
+Create IV image galleries and audio playlists using this API.
 
 ## URL
 - `https://api.asergey.me/ivapi/`
@@ -68,7 +68,7 @@ data = {'title': 'SOME TITLE', 'comment': 'Some comment',
                     {'url': 'http://useless.altervista.org/iv/img_pulpit2.jpg', 'caption': 'PIC B'}],
          'audios': [{'url': 'http://useless.altervista.org/iv/GreenIsLike.mp3'}, {
              'url': 'http://cdn.mos.musicradar.com/audio/samples/techno-demo-loops/TechBassR120E-01.mp3'}]}
-iv = request.post(url, json=data, headers=header)
+iv = requests.post(url, json=data, headers=header)
 print(iv.text)
 ```
 
