@@ -1,5 +1,5 @@
 ## Projects:
-- <a href="https://t.me/RadioArchiveBot" target="_blank">RadioBot</a> - Your one and only Telegram radio receiver. <a href="http://radioarchivebot.ru/" target="_blank">Site</a>  
+- <a href="https://t.me/RadioBot" target="_blank">@RadioBot</a> - Your one and only Telegram radio receiver. <a href="https://radiobot.me/" target="_blank">Site</a>  
 - <a href="https://asergey.me/tgvkbot" target="_blank">tgvkbot</a> - Telegram bot for chatting in <a href="https://vk.com" target="_blank">VK</a>.    (<a href="https://github.com/Kylmakalle/tgvkbot" target="_blank">source</a>)
 - <a href="https://github.com/Kylmakalle/TGC2BU" target="_blank">TGC2BU</a> - Telegram Client to Bot Updates
 - <a href="ivapi" target="_blank">IV API</a> - Create Telegram Instant View image galleries and audio playlists using this API.
@@ -8,7 +8,7 @@
 - <a href="https://t.me/MobiAssistantBot" target="_blank">@MobiAssistantBot</a> - Admin bot for <a href="https://t.me/dvachannel" target="_blank">2ch</a> telegram groups.    (<a href="https://github.com/Kylmakalle/mobi-assistant-bot" target="_blank">source</a>)
 - <a href="https://t.me/AnonChanBot" target="_blank">@AnonChanBot</a> - Create your own Anonymous Channels using this bot.
 - <a href="https://t.me/EGEcountdown_bot" target="_blank">@EGEcountdown_bot</a> - Simple countdown to Unified State Exam 2018 in Russia.  (<a href="https://github.com/Kylmakalle/EGEcountdown_bot" target="_blank">source</a>) 
-- <strike><a href="https://t.me/ZapisZhizniDonationAlertsBot" target="_blank">DonationAlertsBot</a> - Bot for donations to Telegram channels.</strike>  <i>Abandoned</i>
+- <strike><a href="https://t.me/ZapisZhizniDonationAlertsBot" target="_blank">DonationAlertsBot</a> - Bot for donations to Telegram channels.</strike> <i>Abandoned</i>
 
 
 ## Contact me:
