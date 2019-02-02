@@ -2,8 +2,8 @@
 
 Create IV image galleries and audio playlists using this API.
 
-## URL
-- `https://api.asergey.me/ivapi/`
+## SERVER SOURCE URL
+- `https://github.com/Kylmakalle/ivapi`
 
 ## Headers
 - `content-type: application/json`
