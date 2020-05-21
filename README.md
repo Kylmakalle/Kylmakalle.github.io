@@ -1,5 +1,7 @@
 ## Projects:
-- <a href="https://t.me/SaleerBot" target="_blank">@SaleerBot</a> - Anonymous Cryptocurrrency exchange in Telegram. <a href="https://saleer.com/" target="_blank">Site</a>  
+<!---
+- <a href="https://t.me/SaleerBot" target="_blank">@SaleerBot</a> - Anonymous Cryptocurrrency exchange in Telegram. <a href="https://saleer.com/" target="_blank">Site</a>
+-->
 - <a href="https://t.me/RadioBot" target="_blank">@RadioBot</a> - Your one and only Telegram radio receiver. <a href="https://aacplus.ru/" target="_blank">Site</a>  
 - <a href="https://akentev.com/tgvkbot" target="_blank">tgvkbot</a> - Telegram bot for chatting in <a href="https://vk.com" target="_blank">VK</a>.    (<a href="https://github.com/Kylmakalle/tgvkbot" target="_blank">source</a>)
 - <a href="https://t.me/OmegaRooftopBot" target="_blank">@OmegaRooftopBot</a> - Official Omega Rooftop bot. <a href="https://omegarooftop.ru/" target="_blank">Site</a>  
